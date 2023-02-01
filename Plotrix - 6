@@ -1,3 +1,0 @@
-library(plotrix)
-data <- c(12,38,25,25)
-pie3D(data, radius = 0.75, height= 0.6)
